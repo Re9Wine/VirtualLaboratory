@@ -4,4 +4,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VirtualLaboratory.DAL\VirtualLaboratory.DAL.csproj" />
+  </ItemGroup>
+
 </Project>

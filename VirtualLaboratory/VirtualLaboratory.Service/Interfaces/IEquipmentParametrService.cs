@@ -3,7 +3,7 @@ using VirtualLaboratory.Domain.Entity;
 
 namespace VirtualLaboratory.Service.Interfaces
 {
-    public interface IEquipmentParametrServise : IBaseService<
+    public interface IEquipmentParametrService : IBaseService<
         EquipmentParametr,
         AddEquipmentParametrModel,
         UpdateEquipmentParametrModel
