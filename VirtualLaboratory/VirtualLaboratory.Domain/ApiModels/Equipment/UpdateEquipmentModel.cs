@@ -1,4 +1,6 @@
-﻿namespace VirtualLaboratory.Domain.ApiModels.Equipment
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace VirtualLaboratory.Domain.ApiModels.Equipment
 {
     public class UpdateEquipmentModel
     {

@@ -1,4 +1,6 @@
-﻿namespace VirtualLaboratory.Domain.ApiModels.ConstantInLaboratoryWork
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace VirtualLaboratory.Domain.ApiModels.ConstantInLaboratoryWork
 {
     public class UpdateConstantInLaboratoryWorkModel
     {
